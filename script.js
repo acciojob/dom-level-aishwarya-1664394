@@ -1,6 +1,6 @@
 //your JS code here. If required.
 let count=0;
-let levelele=document.getElementbyId("level");
+let levelele=document.getElementById("level");
 while(levelele.parentElement!=null){
 	count++;
 	levelele=levelele.parentElement
