@@ -5,4 +5,4 @@ while(levelele.parentElement!=null){
 	count++;
 	levelele=levelele.parentElement
 }
-alert("he level of the element is: ",count)
+alert("the level of the element is: ",count)
